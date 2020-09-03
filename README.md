@@ -1,2 +1,2 @@
-# Weather-Forcast-SNS-Messages
-Built programmable weather forcast SNS using OpenWeatherMap API and Twillo API
+# Weather-Forecast-SNS-Messages
+Built programmable weather forecast SNS using OpenWeatherMap API and Twillo API
